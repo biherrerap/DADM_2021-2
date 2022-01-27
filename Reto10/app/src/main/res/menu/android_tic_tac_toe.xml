@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_new_game"
+        android:title="New Game"
+        android:icon="@drawable/action_new_game"/>
+    <item android:id="@+id/action_creategame"
+        android:title="Create online game"
+        android:icon="@drawable/settings" />
+    <item android:id="@+id/action_joingame"
+        android:title="Join online game"
+        android:icon="@drawable/settings" />
+</menu>
